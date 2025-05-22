@@ -35,10 +35,6 @@ This project demonstrates the difference in decision boundaries between a **Logi
 - `decision_boundary_visualization.ipynb`: Main notebook with code and plots
 - `README.md`: Project description
 
-## 📷 Sample Output
-
-![Decision Boundaries](assets/decision_boundary_example.png)  
-*Note: Add an actual image to the `assets` folder if you want this to render.*
 
 ## 📬 Contact
 
